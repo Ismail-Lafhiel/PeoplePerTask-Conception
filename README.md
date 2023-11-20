@@ -33,9 +33,9 @@
 
 
 
-## Related
+## ERD
 
-Here are some related projects
+link to ERD schema
 
 [ERD link](https://drawsql.app/teams/the-homelander/diagrams/peoplepertask)
 
@@ -43,4 +43,5 @@ Here are some related projects
 ## Screenshots
 
 ![App Screenshot](https://i.ibb.co/ZLkkcZ0/Use-Case-Diagram.jpg)
+![App Screenshot](https://i.ibb.co/ggmFycs/Peopleper-Tast-Class-Diagram.jpg)
 

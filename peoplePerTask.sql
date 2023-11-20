@@ -55,7 +55,8 @@ values ("Web developement"),
     
 --@block
 select *
-from Categories --@block
+from Categories
+ --@block
     CREATE TABLE if NOT EXISTs Sub_categories (
         id int primary key AUTO_INCREMENT,
         name varchar(250) not null,
@@ -77,7 +78,7 @@ select *
 from Sub_categories
     inner join Categories on Sub_categories.category_id = Categories.id;
 --@block
-    Create Table if not EXISTS   (
+    Create Table if not EXISTS  Projects (
         id int primary key AUTO_INCREMENT,
         title varchar(250),
         description text,
