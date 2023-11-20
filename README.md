@@ -42,7 +42,7 @@ link to ERD schema
 
 ## Screenshots
 
-![App Screenshot]([https://i.ibb.co/ZLkkcZ0/Use-Case-Diagram.jpg](https://github.com/Ismail-Lafhiel/PeoplePerTask-Conception/blob/master/UseCaseDiagram.jpg?raw=true)https://github.com/Ismail-Lafhiel/PeoplePerTask-Conception/blob/master/UseCaseDiagram.jpg?raw=true)
+![App Screenshot](https://raw.githubusercontent.com/Ismail-Lafhiel/PeoplePerTask-Conception/master/UseCaseDiagram.jpg)
 
 ![App Screenshot](https://github.com/Ismail-Lafhiel/PeoplePerTask-Conception/blob/master/PeopleperTastClassDiagram.jpg?raw=true)
 
